@@ -2,7 +2,7 @@
 
 A digital resume website built using HTML & CSS
 
-View live demo here using Netlify: [Live Demo](https://rishabhbansal11.netlify.app)
+View live demo here using Netlify: [Live Demo](https://rishabhbansal20.netlify.app)
 
 ## Website Preview
 
